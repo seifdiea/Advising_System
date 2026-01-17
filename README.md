@@ -1,4 +1,4 @@
-# Modified Advising System
+# Advising System
 ## Overview
 This project is a **Modified Advising System** that integrates a relational database with a simple
 frontend application. The backend is implemented using **SQL Server**, while the frontend is
