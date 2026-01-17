@@ -1,6 +1,6 @@
 # Advising System
 ## Overview
-This project is a **Modified Advising System** that integrates a relational database with a simple
+This project is a **Advising System** that integrates a relational database with a simple
 frontend application. The backend is implemented using **SQL Server**, while the frontend is
 implemented using **C#** to provide a basic but fully functional user interface.
 
